@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "downloading", "downloading\downloading.csproj", "{D2CA126F-9B3F-4084-ADCC-7821BE8542C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CA126F-9B3F-4084-ADCC-7821BE8542C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CA126F-9B3F-4084-ADCC-7821BE8542C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CA126F-9B3F-4084-ADCC-7821BE8542C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CA126F-9B3F-4084-ADCC-7821BE8542C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717EA290-A166-4887-9104-228EE9255019}
+	EndGlobalSection
+EndGlobal
