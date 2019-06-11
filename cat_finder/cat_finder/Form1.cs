@@ -90,7 +90,7 @@ namespace cat_finder
             _connector.RequestStr = "https://api.thecatapi.com/v1/images/search?breed_ids=" + _cats[i].BreedId;
             var json = _connector.getResponse();
             dynamic breed = JsonConvert.DeserializeObject(json);
-            var fileName = "../Images/" + Path.GetFileName(breed[0].url.ToString());
+            var fileName = "../../Images/" + Path.GetFileName(breed[0].url.ToString());
             using (var wc = new WebClient())
             {
                 wc.DownloadFile(breed[0].url.ToString(), fileName);
