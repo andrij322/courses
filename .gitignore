@@ -1,2 +1,6 @@
-cat_finder/cat_finder/bin
+cat_finder/cat_finder/bin/Debug/cat_finder.exe
+cat_finder/cat_finder/bin/Debug/cat_finder.exe.config
+cat_finder/cat_finder/bin/Debug/cat_finder.pdb
+cat_finder/cat_finder/bin/Debug/Newtonsoft.Json.dll
+cat_finder/cat_finder/bin/Debug/Newtonsoft.Json.xml
 cat_finder/cat_finder/obj
